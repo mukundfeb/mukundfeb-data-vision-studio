@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from sklearn.preprocessing import LabelEncoder, StandardScaler, OneHotEncoder
+from sklearn.preprocessing import LabelEncoder, StandardScaler
 # Set page title correctly
 st.set_page_config(page_title="Dashboard", layout="wide")
 st.markdown("""
